@@ -5,5 +5,5 @@ This is project contains several samples for mappMotion.
 
 ## [**For a detailed description follow this link**](https://br-automation-community.github.io/mappMotion-Samples/)
 
-![image](https://github.com/br-automation-community/mappMotion-Samples/assets/2972703/e1559d1d-d895-4f23-a153-5fa039d7816f)
+![image](https://github.com/br-automation-community/mappMotion-Samples/blob/gh-pages/images/screenshot.png)
 
